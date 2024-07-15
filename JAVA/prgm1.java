@@ -1,6 +1,6 @@
 /*# A PROGRAM TO DEFINE THE DIFFERENCE BETWEEN STATIC AND NON-STATIC METHOD
 #
-# static variable is a class member not an object member that is common/shared to all objectof the #class and can be accessed by using className.staticVariableName=value;
+# static variable is a class member not an object member that is common/shared to all object of the class and can be accessed by using className.staticVariableName=value;
 #
 # Non-static(instance) method                              static method  
 # -------------------------------                      ---------------------------                   
