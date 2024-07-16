@@ -92,3 +92,28 @@ class prgm3
        
   }
 }
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+output
+enter the number of rows:
+3
+enter the number of columns:
+3
+matrix 1 is
+1 1 1 1 1 1 1 1 1
+matrix 2 is
+2 2 2 2 2 2 2 2 2
+sum of matrix is
+matrix 1 is
+1 1 1 
+1 1 1 
+1 1 1 
+matrix 2 is
+2 2 2 
+2 2 2 
+2 2 2 
+resultant matrix is
+3 3 3 
+3 3 3 
+3 3 3 
+
+
